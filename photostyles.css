@@ -1,0 +1,25 @@
+select {
+    height:30px;
+    width: 250px;
+    display:inline;
+    font-size: 22px;
+}
+
+
+
+.textspan{
+    font-size: 22px;
+}
+
+#photo_holder{
+    width: 100%;
+    height :auto;
+    padding-top: 50px;
+}
+
+.photo_button {
+    display: block;
+    font-size: 18px;
+    background-color: red;
+    color: black;
+}

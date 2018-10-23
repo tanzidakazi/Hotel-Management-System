@@ -1,0 +1,41 @@
+.search_min input[type=text]{
+    border: 2px solid #f8efe9;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    display: block;
+    margin: 10pt;
+}
+
+.search_min input[type=number]{
+    border: 2px solid #f8efe9;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    display: block;
+    margin: 10pt;
+}
+
+.search_min input[type=button]{
+    border: 2px solid #f8efe9;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    display: block;
+    margin: 10pt;
+}
+.error{
+    display: inline;
+}
+
+.details{
+    float: right;
+    border-collapse: collapse;
+    border: solid;
+    padding-top: 10pt;
+    margin-top: 10pt;
+}
+.search_min{
+    margin: auto;
+    float: left;
+}
